@@ -1,0 +1,92 @@
+@import "tailwindcss";
+
+@theme {
+  --animate-fade-in-up: fade-in-up 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+
+  @keyframes fade-in-up {
+    0% {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}
+
+@layer base {
+  body {
+    @apply antialiased;
+  }
+
+  /* Custom Scrollbar */
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: #F9F8F6;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: #5A5A40;
+    border-radius: 10px;
+    border: 2px solid #F9F8F6;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: #4A4A30;
+  }
+
+  /* For Firefox */
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: #5A5A40 #F9F8F6;
+  }
+
+  :root {
+    font-family: 'Inter', system-ui, Avenir, Helvetica, Arial, sans-serif;
+  }
+  
+  h1, h2, h3, h4, h5, h6, .font-outfit {
+    font-family: 'Outfit', sans-serif;
+  }
+}
+
+/* High Contrast Mode */
+.high-contrast {
+  filter: contrast(1.2);
+}
+
+.high-contrast body {
+  background-color: #000 !important;
+  color: #fff !important;
+}
+
+.high-contrast .bg-white,
+.high-contrast .bg-[#F9F8F6],
+.high-contrast .bg-[#EFECE8] {
+  background-color: #000 !important;
+  border-color: #fff !important;
+}
+
+.high-contrast .text-[#1A1A17],
+.high-contrast .text-[#33332D],
+.high-contrast .text-[#706F66],
+.high-contrast .text-[#5A5A40] {
+  color: #fff !important;
+}
+
+.high-contrast .border,
+.high-contrast .border-[#E6E4DF],
+.high-contrast .border-[#EFECE8] {
+  border-color: #fff !important;
+}
+
+.high-contrast button.bg-[#5A5A40],
+.high-contrast a.bg-[#5A5A40] {
+  background-color: #ffff00 !important;
+  color: #000 !important;
+  font-weight: 800 !important;
+}

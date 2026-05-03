@@ -1,0 +1,7 @@
+[
+  { "id": "pune_ls", "name": "Pune", "state": "Maharashtra", "previousMP": "Girish Bapat" },
+  { "id": "mumbai_south_ls", "name": "Mumbai South", "state": "Maharashtra", "previousMP": "Arvind Sawant" },
+  { "id": "nagpur_ls", "name": "Nagpur", "state": "Maharashtra", "previousMP": "Nitin Gadkari" },
+  { "id": "nashik_ls", "name": "Nashik", "state": "Maharashtra", "previousMP": "Hemant Godse" },
+  { "id": "chhatrapati_sambhaji_nagar_ls", "name": "Chhatrapati Sambhaji Nagar", "state": "Maharashtra", "previousMP": "Imtiaz Jaleel" }
+]

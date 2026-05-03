@@ -1,0 +1,95 @@
+{
+  "cand_pune_1": [
+    { "role": "Mayor of Pune", "year": "2019-2022", "description": "Led the city during the COVID-19 pandemic and oversaw infrastructure projects like the Pune Metro." },
+    { "role": "Standing Committee Chairman", "year": "2017-2018", "description": "Managed the municipal corporation's budget and fiscal policies." }
+  ],
+  "cand_pune_2": [
+    { "role": "MLA, Kasba Peth", "year": "2023-Present", "description": "Won the high-profile Kasba Peth by-election, focusing on urban redevelopment." },
+    { "role": "Corporator, PMC", "year": "1997-2022", "description": "Five-time municipal councilor known for local community outreach." }
+  ],
+  "cand_pune_3": [
+    { "role": "Group Leader, PMC", "year": "2017-2022", "description": "Led the MNS party in the Pune Municipal Corporation before joining VBA." }
+  ],
+  "cand_var_1": [
+    { "role": "Prime Minister of India", "year": "2014-Present", "description": "Incumbent Prime Minister leading the NDA government." },
+    { "role": "Chief Minister of Gujarat", "year": "2001-2014", "description": "Longest-serving CM of Gujarat, focused on economic development." }
+  ],
+  "cand_var_2": [
+    { "role": "President, UPCC", "year": "2023-Present", "description": "Leading the Congress party in Uttar Pradesh." },
+    { "role": "MLA, Pindra", "year": "2012-2017", "description": "Represented the Pindra assembly seat multiple times." }
+  ],
+  "cand_nag_5": [
+    { "role": "Anti-Corruption Activist", "year": "2011-Present", "description": "Prominent campaigner against corruption, notably exposing irregularities in Maharashtra's irrigation projects." },
+    { "role": "Lok Sabha Candidate, Nagpur", "year": "2014", "description": "Contested the general elections from Nagpur as an AAP candidate, focusing on transparency and accountability." },
+    { "role": "State Convener, AAP Maharashtra", "year": "2013-2015", "description": "Led the Aam Aadmi Party's organizational setup and campaigns in Maharashtra." }
+  ],
+  "cand_mum_1": [
+    { "role": "Member of Parliament", "year": "2014-Present", "description": "Two-time MP from Mumbai South, known for labor union leadership." },
+    { "role": "Minister of Heavy Industries", "year": "2019", "description": "Served briefly as a Union Minister." }
+  ],
+  "cand_mum_5": [
+    { "role": "Lok Sabha Candidate, Mumbai South", "year": "2014", "description": "Contested the general elections on an Aam Aadmi Party (AAP) ticket, advocating for urban governance reforms." },
+    { "role": "Lok Sabha Candidate, Mumbai South", "year": "2009", "description": "Contested as an Independent candidate, focusing on transparency and civic issues in the aftermath of 26/11." },
+    { "role": "CEO, Royal Bank of Scotland India", "year": "2007-2013", "description": "Served as the CEO and Chairperson of RBS India, leading the bank's operations in the country." }
+  ],
+  "cand_ame_2": [
+    { "role": "Union Minister", "year": "2014-Present", "description": "Held portfolios for HRD, Textiles, and Women & Child Development." },
+    { "role": "Member of Parliament", "year": "2011-Present", "description": "Elected to Rajya Sabha (2011) and Lok Sabha (2019) from Amethi." }
+  ],
+  "cand_blr_1": [
+    { "role": "Member of Parliament", "year": "2009-Present", "description": "Three-time MP from Bangalore Central, focusing on urban infrastructure." }
+  ],
+  "cand_nas_1": [
+    { "role": "Member of Parliament, Nashik", "year": "2024-Present", "description": "Elected MP from Nashik Lok Sabha constituency in the 2024 general elections on a Shiv Sena (UBT) ticket." },
+    { "role": "MLA, Sinnar", "year": "2014-2019", "description": "Served as MLA from Sinnar assembly constituency in Nashik district." },
+    { "role": "Political Legacy", "year": "1965-Present", "description": "Third-generation politician. Grandfather Shankar Balaji Waje was the first MLA of Sinnar after Maharashtra's formation. Grandmother Rukminibai Waje was also an MLA from Sinnar." }
+  ],
+  "cand_nas_2": [
+    { "role": "Member of Parliament, Nashik", "year": "2014-2024", "description": "Two-term MP from Nashik. First elected in 2014 defeating veteran NCP leader Chhagan Bhujbal, re-elected in 2019." },
+    { "role": "Councillor, Nashik Municipal Corporation", "year": "2012-2014", "description": "Served as municipal councillor in Nashik before contesting the Lok Sabha elections." },
+    { "role": "Member, Zila Parishad Nashik", "year": "2007-2012", "description": "District-level representative, focusing on local development and rural infrastructure." },
+    { "role": "Senate Member, Pune University", "year": "2008-2009", "description": "Served on the Senate of Pune University." }
+  ],
+  "cand_nas_3": [
+    { "role": "Independent Candidate, Nashik", "year": "2024", "description": "Contested Nashik Lok Sabha seat as an Independent after being denied a Shiv Sena (Shinde) ticket." },
+    { "role": "Lok Sabha Candidate, Chhatrapati Sambhaji Nagar", "year": "2009", "description": "Contested from Chhatrapati Sambhaji Nagar constituency and received over 1.48 lakh votes." },
+    { "role": "Mathadhipati, Janardan Swami Ashram", "year": "1990s-Present", "description": "Head of the Janardan Swami Ashram near Ellora caves. Runs de-addiction centres, high schools, and colleges for social welfare." }
+  ],
+  "cand_nas_4": [
+    { "role": "District President, VBA Nashik", "year": "2018-Present", "description": "Serves as the Vanchit Bahujan Aghadi district president for Nashik, building grassroots support for the party." },
+    { "role": "Lok Sabha Candidate, Nashik", "year": "2019", "description": "Contested the Nashik Lok Sabha seat in the 2019 general elections on a VBA ticket." },
+    { "role": "Agricultural & Civil Contractor", "year": "2005-Present", "description": "Professional background in agriculture and civil contracting in the Nashik region." }
+  ],
+  "cand_nas_5": [
+    { "role": "MLA, Chandwad (3rd Term)", "year": "2024-Present", "description": "Won the Chandwad assembly seat for a third consecutive term in the 2024 Maharashtra Assembly Elections." },
+    { "role": "MLA, Chandwad (2nd Term)", "year": "2019-2024", "description": "Re-elected from Chandwad, continuing development work in the constituency." },
+    { "role": "MLA, Chandwad (1st Term)", "year": "2014-2019", "description": "First elected to the Maharashtra Legislative Assembly from Chandwad on a BJP ticket." },
+    { "role": "Political Legacy", "year": "Family", "description": "Son of late Dr. Daulatrao Aher, former Maharashtra Health Minister and BJP MLA. Carries forward the family's political legacy in Nashik district." }
+  ],
+  "cand_csn_1": [
+    { "role": "Member of Parliament, Chhatrapati Sambhaji Nagar", "year": "2024-Present", "description": "Won the Chhatrapati Sambhaji Nagar (Chhatrapati Sambhaji Nagar) Lok Sabha seat in 2024 on a Shiv Sena (Mahayuti) ticket." },
+    { "role": "Cabinet Minister, Maharashtra", "year": "2019-2024", "description": "Served as Cabinet Minister holding portfolios for Employment Guarantee and Horticulture. Also served as Guardian Minister for Chhatrapati Sambhaji Nagar district." },
+    { "role": "MLA, Paithan (Six Terms)", "year": "1995-2024", "description": "Elected from Paithan assembly constituency six times — in 1995, 1999, 2004, 2014, 2019, and 2024. One of the longest-serving MLAs in Marathwada." }
+  ],
+  "cand_csn_2": [
+    { "role": "Member of Parliament, Chhatrapati Sambhaji Nagar", "year": "2019-2024", "description": "Elected to the Lok Sabha from Chhatrapati Sambhaji Nagar constituency, focusing on infrastructure and development." },
+    { "role": "MLA, Chhatrapati Sambhaji Nagar Central", "year": "2014-2019", "description": "Successfully transitioned from journalism to politics, winning the assembly seat for AIMIM." },
+    { "role": "Senior Journalist, NDTV & Lokmat", "year": "1995-2014", "description": "Spent nearly 20 years in journalism, including 12 years with NDTV and 11 years with Lokmat." }
+  ],
+  "cand_csn_3": [
+    { "role": "Member of Parliament, Chhatrapati Sambhaji Nagar", "year": "1999-2019", "description": "Represented Chhatrapati Sambhaji Nagar for four consecutive terms in the Lok Sabha, serving for 20 years." },
+    { "role": "Cabinet Minister, Maharashtra", "year": "1995-1999", "description": "Held portfolios for Housing, Transport, and Forests/Environment in the state government." },
+    { "role": "MLA, Chhatrapati Sambhaji Nagar West", "year": "1990-1999", "description": "Served two terms in the Maharashtra Legislative Assembly before moving to national politics." },
+    { "role": "Opposition Leader, AMC", "year": "1988-1990", "description": "Led the opposition in the Chhatrapati Sambhaji Nagar Municipal Corporation as a corporator." }
+  ],
+  "cand_csn_4": [
+    { "role": "MLA, Kannad (2nd Term)", "year": "2014-2019", "description": "Re-elected to the state assembly as a Shiv Sena candidate." },
+    { "role": "MLA, Kannad (1st Term)", "year": "2009-2014", "description": "First elected as an MLA representing the Maharashtra Navnirman Sena (MNS)." },
+    { "role": "Family & Political Legacy", "year": "Current", "description": "Son of late Raibhan Jadhav (former MLA) and son-in-law of Raosaheb Danve (former Union Minister)." }
+  ],
+  "cand_csn_5": [
+    { "role": "BJP Spokesperson, Marathwada", "year": "2024-Present", "description": "Appointed as the official spokesperson for the Bharatiya Janata Party in the Marathwada region." },
+    { "role": "Deputy Mayor, Chhatrapati Sambhaji Nagar", "year": "2015-2020", "description": "Served as the Deputy Mayor of the Chhatrapati Sambhaji Nagar Municipal Corporation, focusing on urban infrastructure and public grievances." },
+    { "role": "BJP Group Leader, AMC", "year": "2012-2020", "description": "Led the BJP group in the municipal corporation, advocating for transparent governance and civic improvements." }
+  ]
+}

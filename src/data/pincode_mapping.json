@@ -1,0 +1,15 @@
+[
+  { "pincode": "411001", "constituency_id": "pune_ls" },
+  { "pincode": "411002", "constituency_id": "pune_ls" },
+  { "pincode": "411004", "constituency_id": "pune_ls" },
+  { "pincode": "411005", "constituency_id": "pune_ls" },
+  { "pincode": "400001", "constituency_id": "mumbai_south_ls" },
+  { "pincode": "400002", "constituency_id": "mumbai_south_ls" },
+  { "pincode": "400004", "constituency_id": "mumbai_south_ls" },
+  { "pincode": "440001", "constituency_id": "nagpur_ls" },
+  { "pincode": "440010", "constituency_id": "nagpur_ls" },
+  { "pincode": "422001", "constituency_id": "nashik_ls" },
+  { "pincode": "422002", "constituency_id": "nashik_ls" },
+  { "pincode": "431001", "constituency_id": "chhatrapati_sambhaji_nagar_ls" },
+  { "pincode": "431005", "constituency_id": "chhatrapati_sambhaji_nagar_ls" }
+]

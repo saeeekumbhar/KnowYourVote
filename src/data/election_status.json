@@ -1,0 +1,16 @@
+{
+  "current_phase_id": "campaign",
+  "timeline": [
+    { "id": "register", "name": "Voter Registration", "status": "completed", "date": "Jan 2024" },
+    { "id": "announced", "name": "Election Announced", "status": "completed", "date": "16 Mar 2024" },
+    { "id": "campaign", "name": "Campaigning", "status": "active", "date": "Mar–May 2024" },
+    { "id": "vote", "name": "Voting Day", "status": "upcoming", "date": "May 2024" },
+    { "id": "results", "name": "Results Declared", "status": "upcoming", "date": "4 Jun 2024" }
+  ],
+  "stats": {
+    "total_electors": 1868750,
+    "votes_polled": 0,
+    "turnout_percent": 0,
+    "constituency_type": "General"
+  }
+}

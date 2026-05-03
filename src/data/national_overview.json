@@ -1,0 +1,14 @@
+{
+  "election_name": "2024 Lok Sabha Elections",
+  "total_seats": 543,
+  "majority_mark": 272,
+  "curated_seats": 5,
+  "parties": [
+    { "name": "BJP", "seats": 240, "color": "#FF6B00" },
+    { "name": "INC", "seats": 99, "color": "#00BFFF" },
+    { "name": "SP", "seats": 37, "color": "#E74C3C" },
+    { "name": "TMC", "seats": 29, "color": "#2ECC71" },
+    { "name": "DMK", "seats": 22, "color": "#E74C3C" },
+    { "name": "Others", "seats": 116, "color": "#8B8982" }
+  ]
+}
